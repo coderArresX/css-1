@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+h1 {
+    color: #8E26C0;
+    font-family: JetBrains Mono;
+    text-align: center;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 29px;
+    margin-top: 24px;
+    margin-bottom: 29px;
+}
+
+#firstDiv {
+    color: #FF0000;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #FFE8E8;
+    padding: 24px 40px;
+    align-items: center;
+    margin-bottom: 32px;
+    margin-left: 32px;
+    width: 565px;
+    height: 86px;
+    box-sizing: border-box;
+}
+
+#seccondDiv {
+    color: #85647B;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400px;
+    line-height: normal;
+    padding: 24px 40px;
+    text-align: center;
+    border-top: 2px solid #00C76E;
+    border-right: 6px solid #05F;
+    border-bottom: 2px solid #7F56D9;
+    border-left: 4px solid #C11574;
+    margin-left: 32px;
+    width: 1023px;
+    height: 144px;
+}
+
+#thirdDiv {
+    margin-left: 32px;
+    margin-top: 42px;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    color: #414651;
+    background-color: #FFE8E8;
+    font-size: 32px;
+    text-align: center;
+    font-family: Lato;
+    line-height: normal;
+    font-weight: 400;
+    font-style: normal;
+    height: 133px;
+}
+
+#firstSpan {
+    color: #FF4405;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+}
+
+#fourthDiv {
+    margin-left: 32px;
+    margin-top: 36px;
+    color: #0064CE;
+    text-align: right;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: 2px solid #3538CD;
+    align-items: center;
+    padding: 24px 40px;
+    width: 1069px;
+    height: 86px;
+}
+
+#discount {
+    width: 556px;
+    height: 347px;
+    margin-left: 32px;
+    margin-top: 76px;
+    display: inline-block;
+}
